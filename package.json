@@ -1,0 +1,19 @@
+{
+  "name": "appwrite-migration-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "appwrite": "^16.0.2",
+    "csv-parser": "^3.0.0",
+    "mongodb": "^6.10.0",
+    "mysql": "^2.18.1",
+    "ora": "^8.1.1"
+  }
+}
